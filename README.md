@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 [![stat](https://github-readme-stats.vercel.app/api?username=Rootn61&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/Rootn61/TIL.git)
 
-![welsh](https://github.com/Rootn61/study/assets/156268511/64f6f875-823a-4f3c-b222-724a437074a6)
+
